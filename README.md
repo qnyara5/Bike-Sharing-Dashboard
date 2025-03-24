@@ -1,6 +1,6 @@
 # Bike Sharing Dataset Dashboard
 
-## Setup Environment - Shell/Terminal
+## Setup Environment - Shell
 ```
 python -m venv .venv
 .venv\Scripts\activate
