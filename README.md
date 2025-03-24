@@ -11,3 +11,8 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+
+## Url Dashboard
+
+[Dashboard](https://bike-sharing-dashboard-tfrs.streamlit.app/)
+
